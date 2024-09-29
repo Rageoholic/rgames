@@ -1,0 +1,5 @@
+[workspace]
+
+members = ["rgraphics", "sample-app"]
+
+resolver = "2"
